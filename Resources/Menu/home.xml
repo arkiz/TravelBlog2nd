@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ffffd54f">
+ <item
+      android:id="@+id/home"
+      android:icon="@drawable/icon_travel_globe"
+      android:showAsAction="ifRoom"
+      android:title="HOME" />
+ <item
+      android:id="@+id/triplog"
+      android:showAsAction="ifRoom"
+      android:title="TRIP:LOG"/>
+ <item
+      android:id="@+id/plans"
+      android:showAsAction="ifRoom"
+      android:title="PLAN"/>
+ <item
+      android:id="@+id/contact"
+      android:showAsAction="ifRoom"
+      android:title="Contact"/>
+</menu>
